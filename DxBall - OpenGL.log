@@ -1,0 +1,720 @@
+﻿  AudioManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Ball.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(53,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(57,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(75,34): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(76,44): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(77,44): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(106,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(110,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(110,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(110,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(114,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(114,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(114,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(120,14): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Github\DxBall - OpenGL\Ball.cpp(124,13): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Github\DxBall - OpenGL\Ball.cpp(153,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\Ball.cpp(167,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BallsManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BallsManager.cpp(13,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BallsManager.cpp(49,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BallsManager.cpp(88,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BallsManager.cpp(99,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BallsManager.cpp(130,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BallsManager.cpp(138,19): warning C4018: '<': signed/unsigned mismatch
+  BoardManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BoardManager.cpp(11,28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BoardManager.cpp(12,30): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BoardManager.cpp(19,28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BoardManager.cpp(20,30): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Brick.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(11,11): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(11,8): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(46,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(46,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(46,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(48,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(48,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(48,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(50,44): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(50,36): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Brick.cpp(50,28): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  BulletsManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BulletsManager.cpp(8,14): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BulletsManager.cpp(8,11): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BulletsManager.cpp(13,16): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BulletsManager.cpp(58,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BulletsManager.cpp(68,19): warning C4018: '<': signed/unsigned mismatch
+  Button.cpp
+  ButtonsManager.cpp
+  CollisionManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(21,113): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(26,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(31,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(56,83): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(56,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(58,80): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(58,39): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(58,192): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(58,151): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(62,104): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(62,63): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(63,79): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(63,38): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(72,6): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(72,244): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(89,10): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(90,10): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\CollisionManager.cpp(404,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  BricksManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(21,71): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(21,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(41,73): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(41,32): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(60,73): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(60,32): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(88,20): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Github\DxBall - OpenGL\BricksManager.cpp(89,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Github\DxBall - OpenGL\BricksManager.cpp(90,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Github\DxBall - OpenGL\BricksManager.cpp(91,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Github\DxBall - OpenGL\BricksManager.cpp(169,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BricksManager.cpp(191,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BricksManager.cpp(210,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BricksManager.cpp(212,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(213,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(214,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(215,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(228,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(241,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(285,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(285,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(285,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\BricksManager.cpp(323,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BricksManager.cpp(329,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BricksManager.cpp(356,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\BricksManager.cpp(363,19): warning C4018: '<': signed/unsigned mismatch
+  CustomGameManager.cpp
+  Externs.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  FieldManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(11,28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(13,35): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(18,28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(20,35): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(24,13): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(26,14): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(30,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(30,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(30,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(32,20): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(32,20): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(32,23): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(32,23): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(32,28): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(32,28): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(33,20): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(33,20): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(33,25): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(33,25): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(33,37): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(33,37): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(35,20): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(35,20): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(35,25): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(35,25): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(35,36): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(35,36): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(36,20): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(36,20): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(36,23): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(36,23): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(36,28): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\FieldManager.cpp(36,28): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(39,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(39,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(39,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(41,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(41,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(41,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(42,67): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(42,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(42,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\FieldManager.cpp(42,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Headers.cpp
+  PaddleManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(21,32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(38,40): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(60,36): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(60,29): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(61,36): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(61,29): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(68,6): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(74,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(76,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(78,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,41): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,41): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,63): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,85): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,85): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,106): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,106): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,123): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(79,123): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,62): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,62): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,87): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,87): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,112): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,112): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,141): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,141): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,171): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(81,171): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(88,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(89,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(99,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(109,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(109,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(110,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(110,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(111,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(111,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(112,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(112,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(119,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(128,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(128,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(129,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(129,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(130,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(130,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(131,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(131,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(132,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(132,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(139,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(151,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(151,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(152,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(152,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(153,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(153,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(154,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(154,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(163,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(175,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(175,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(176,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(176,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(177,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(177,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(180,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(180,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(182,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(182,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(192,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(199,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(211,86): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(211,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(212,86): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(212,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(213,86): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(213,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PaddleManager.cpp(260,10): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Particle.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Particle.cpp(7,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Github\DxBall - OpenGL\Particle.cpp(7,38): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Github\DxBall - OpenGL\Particle.cpp(14,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Github\DxBall - OpenGL\Particle.cpp(14,38): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  ParticlesManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(6,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(6,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(7,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(7,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(8,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(8,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(9,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(9,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(20,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(27,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(27,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(40,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(73,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(73,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(73,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(74,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(74,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(81,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\ParticlesManager.cpp(91,19): warning C4018: '<': signed/unsigned mismatch
+  Rectangle.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Rectangle.cpp(35,12): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Rectangle.cpp(36,12): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Rectangle.cpp(37,17): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\Rectangle.cpp(38,16): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Bullet.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Circle.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Compiling...
+  ColorManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(11,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(12,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(13,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(17,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(18,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(19,12): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(23,18): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(24,18): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\ColorManager.cpp(25,18): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(170,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=GLfloat
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=GLfloat,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=GLfloat,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(878): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Exact_args_t,int,int,int,0>(_Tag,_This2 &&,int &&,int &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(878): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Exact_args_t,int,int,int,0>(_Tag,_This2 &&,int &&,int &&)' being compiled
+          with
+          [
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(265): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<int,int,int>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(265): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)' being compiled
+          with
+          [
+              _Ty=std::tuple<int,int,int>,
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(392): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,std::tuple<int,int,int>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(392): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<std::_Unpack_tuple_t,std::tuple<int,int,int>,0>(_Tag,_Tpl &&)' being compiled
+          with
+          [
+              _Tag=std::_Unpack_tuple_t,
+              _Tpl=std::tuple<int,int,int>
+          ]
+D:\Github\DxBall - OpenGL\ColorManager.cpp(29): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<int,int,int,0>(std::tuple<int,int,int> &&) noexcept' being compiled
+D:\Github\DxBall - OpenGL\ColorManager.cpp(29): message : see reference to function template instantiation 'std::tuple<GLfloat,GLfloat,GLfloat>::tuple<int,int,int,0>(std::tuple<int,int,int> &&) noexcept' being compiled
+  Draw.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  GameManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\GameManager.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Github\DxBall - OpenGL\GameManager.cpp(60,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\GameManager.cpp(103,80): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\GameManager.cpp(103,48): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\GameManager.cpp(120,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Opengl.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  ResumeManager.cpp
+  TextManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  TextureManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  KeyboardManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  LevelManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\LevelManager.cpp(154,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Github\DxBall - OpenGL\LevelManager.cpp(154,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  MenuManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(19,6): warning C4101: 'n': unreferenced local variable
+D:\Github\DxBall - OpenGL\MenuManager.cpp(65,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(67,75): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(73,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(75,81): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(83,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(84,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(86,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(87,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(89,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(107,100): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(107,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(129,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(137,89): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(137,61): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(143,87): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(143,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(152,58): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(204,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(204,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(204,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(205,144): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(205,130): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(205,116): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(219,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(218,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MenuManager.cpp(264,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\MenuManager.cpp(274,59): warning C4305: 'argument': truncation from 'double' to 'float'
+  MouseManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(338,89): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(339,22): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(343,108): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(344,41): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(435,6): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(436,33): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(437,10): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(437,7): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(443,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(443,9): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(444,6): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(445,33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(446,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(446,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(447,10): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(447,7): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(455,28): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\MouseManager.cpp(455,25): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+  Point.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  PowerUp.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PowerUp.cpp(9,11): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PowerUp.cpp(9,8): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PowerUp.cpp(21,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PowerUp.cpp(22,19): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PowerUp.cpp(23,36): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  PowerUpsManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\PowerUpsManager.cpp(29,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\PowerUpsManager.cpp(86,19): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\PowerUpsManager.cpp(98,19): warning C4018: '<': signed/unsigned mismatch
+  ScoreManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreManager.cpp(31,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Github\DxBall - OpenGL\ScoreManager.cpp(67,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\ScoreManager.cpp(68,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\ScoreManager.cpp(69,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\ScoreManager.cpp(70,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\DxBall - OpenGL\ScoreManager.cpp(124,16): warning C4018: '<': signed/unsigned mismatch
+D:\Github\DxBall - OpenGL\ScoreManager.cpp(137,16): warning C4018: '<': signed/unsigned mismatch
+  ScoreFont.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,20): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,20): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,26): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,26): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,39): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,39): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,50): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,50): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,56): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,56): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,69): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(8,69): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,26): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,26): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,32): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,32): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,58): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,58): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,84): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,84): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,114): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,114): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,135): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(9,135): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,20): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,20): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,26): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,26): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,52): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,52): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,78): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,78): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,108): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,108): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,129): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(16,129): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,26): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,26): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,32): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,32): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,45): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,45): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,56): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,56): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,62): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,62): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,75): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(17,75): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(42,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\ScoreFont.cpp(46,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TimeManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\TimeManager.cpp(10,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\TimeManager.cpp(12,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\TimeManager.cpp(38,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\TimeManager.cpp(69,22): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Github\DxBall - OpenGL\TimeManager.cpp(75,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Github\DxBall - OpenGL\TimeManager.cpp(86,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  WallManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  WindowManager.cpp
+D:\Github\DxBall - OpenGL\WindowManager.h(25,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(29,22): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(33,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\WindowManager.h(37,10): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(154,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\DxBall - OpenGL\DrawManager.h(169,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  0 of 1417 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\Github\DxBall - OpenGL\Release\vc120.pdb'; linking object as if no debug info
+freetype252_D.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype252_D.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype252_D.lib(bdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(bdf.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(cff.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(cff.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(ftbase.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(ftbase.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(ftbitmap.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(ftbitmap.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(ftdebug.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(ftdebug.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(ftgzip.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(ftgzip.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype252_D.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype252_D.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype252_D.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype252_D.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype252_D.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype252_D.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype252_D.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype252_D.lib(pcf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(pcf.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(pfr.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(pfr.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(psaux.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(psaux.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(pshinter.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(pshinter.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(psmodule.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(psmodule.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(raster.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(raster.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(sfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(sfnt.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(truetype.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(truetype.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(type1.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(type1.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(type1cid.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(type1cid.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(type42.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(type42.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+freetype252_D.lib(winfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype252_D.lib(winfnt.obj)' or at 'D:\Github\DxBall - OpenGL\Release\freetype.pdb'; linking object as if no debug info
+  DxBall - OpenGL.vcxproj -> D:\Github\DxBall - OpenGL\Release\DxBall-OpenGL.exe
