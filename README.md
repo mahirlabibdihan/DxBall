@@ -1,6 +1,7 @@
 # DxBall
 Updated version of most popular game Dxball . 
-Made using iGraphics .
+Made using OpenGL.
+https://user-images.githubusercontent.com/62663759/127536229-4a5dc2ba-03ed-4fdc-b400-04c3c5db2c6f.mp4
 
 # Main Menu
 <img src="DxballMenu.png" alt="Dxball" width="900"/>
